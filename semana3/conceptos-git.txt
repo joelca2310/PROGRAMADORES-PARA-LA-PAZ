@@ -1,0 +1,8 @@
+Repositorio:
+Un repositorio es un espacio donde se almacenan los archivos y cambios de un proyecto. Permite organizar el trabajo y mantener un historial de modificaciones para facilitar el desarrollo del software.
+
+Commit:
+Un commit es un registro de los cambios realizados en un proyecto. Cada commit guarda una versión específica del trabajo para poder revisar o recuperar cambios cuando sea necesario.
+
+Push:
+Push es el comando que permite enviar los cambios realizados en el repositorio local hacia GitHub. Gracias a esto, el proyecto queda actualizado y respaldado en línea.
