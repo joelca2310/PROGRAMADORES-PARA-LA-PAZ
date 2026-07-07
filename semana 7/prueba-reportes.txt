@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Ejemplo 2:
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}Al consultar la ruta GET /reportes, el servidor devuelve la lista de todos los reportes que se han registrado mediante la ruta POST. Cada vez que se agrega un nuevo reporte, este queda almacenado en el arreglo en memoria y aparece al realizar nuevamente la consulta.
