@@ -1,0 +1,9 @@
+Las dos primeras tareas que realizaría son registrar una incidencia y consultar los reportes, porque son las funciones principales para que la plataforma empiece a funcionar.
+
+Son las más importantes porque permiten que los ciudadanos registren información y que el equipo pueda revisarla y hacer seguimiento.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada en Git y lista para usarse.
