@@ -1,0 +1,8 @@
+Evento:
+Nueva causa registrada en la plataforma.
+
+Mensaje:
+"Nueva causa creada. Revísela en el sistema."
+
+Información que no debe enviarse:
+Nombres completos, documentos de identidad, direcciones, teléfonos, contraseñas ni otros datos personales.
